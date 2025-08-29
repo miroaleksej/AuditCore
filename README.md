@@ -162,7 +162,7 @@ AuditCore can be integrated into wallet extensions like MetaMask to:
 
 ## Contributing
 
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please read our [CONTRIBUTING.md](https://github.com/miroaleksej/AuditCore/blob/main/Doc/Contributing.md) for guidelines.
 
 ## License
 
