@@ -1,31 +1,3 @@
-"""
-ai_assistant_mapper_integration.py
-AI Assistant with Mapper Integration - Complete Industrial-Grade Implementation
-
-Corresponds to:
-- "НР структурированная.md" (Section 11.5.1, p. 38, 42)
-- "Comprehensive Logic and Mathematical Model.md" (AIAssistant section)
-- "TOPOLOGICAL DATA ANALYSIS.pdf" (Mapper theory)
-- AuditCore v3.2 architecture requirements
-
-This module implements the AIAssistant component enhanced with Mapper algorithm
-for intelligent region selection in ECDSA signature space analysis.
-
-Key features:
-- Industrial-grade implementation with full production readiness
-- Complete integration with AuditCore v3.2 architecture
-- Mapper algorithm for topological analysis of signature space
-- Multiscale Mapper for multi-resolution vulnerability detection
-- Smoothing analysis for noise filtering and stability assessment
-- Integration with DynamicComputeRouter for resource management
-- Comprehensive security and validation mechanisms
-- CI/CD pipeline integration
-- Monitoring and alerting capabilities
-
-Copyright (c) 2023 AuditCore Development Team
-All rights reserved.
-"""
-
 import os
 import sys
 import json
