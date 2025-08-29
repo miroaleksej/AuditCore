@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![CI/CD Status](https://github.com/miroaleksej/AuditCore/workflows/ECDSA%20Security%20Check/badge.svg)](https://github.com/miroaleksej/AuditCore/actions)
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c1b1c14-47b3-4ddc-b60b-5c212849f781" />
 
 **AuditCore** is the world's first industrial implementation of topological analysis for ECDSA security auditing. Unlike traditional approaches that require hundreds of real signatures, AuditCore can identify cryptographic vulnerabilities using just a public key and a single real signature from the blockchain.
 
