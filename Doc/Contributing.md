@@ -1,6 +1,6 @@
 # Contributing to AuditCore
 
-Thank you for your interest in contributing to AuditCore! This document outlines the guidelines and processes for contributing to the project. By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+Thank you for your interest in contributing to AuditCore! This document outlines the guidelines and processes for contributing to the project. By participating, you agree to abide by our [Code of Conduct](https://github.com/miroaleksej/AuditCore/blob/main/Doc/Conduct.md).
 
 ## Table of Contents
 - [Reporting Issues](#reporting-issues)
