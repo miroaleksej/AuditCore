@@ -27,7 +27,7 @@ When reporting an issue:
 
 ### Security Disclosure
 
-If you've discovered a security vulnerability, please **do not** create a public issue. Instead, email security@auditcore.org with:
+If you've discovered a security vulnerability, please **do not** create a public issue. Instead, email security@*** with:
 - A detailed description of the vulnerability
 - Steps to reproduce
 - Your suggested fix (optional)
