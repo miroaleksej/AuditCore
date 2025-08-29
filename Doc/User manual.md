@@ -1433,7 +1433,7 @@ A: For high-value wallets, we recommend weekly analysis. For standard wallets, m
 
 ### Contributing
 
-We welcome contributions! Please see our [CONTRIBUTING.md](https://github.com/miroaleksej/AuditCore/blob/main/CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see our [CONTRIBUTING.md](https://github.com/miroaleksej/AuditCore/blob/main/Doc/Contributing.md) for guidelines.
 
 ### Commercial Support
 
