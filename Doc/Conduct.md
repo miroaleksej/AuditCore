@@ -34,7 +34,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at conduct@auditcore.org. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at conduct@***. All complaints will be reviewed and investigated promptly and fairly.
 
 Project maintainers will follow up with you privately to discuss the complaint and resolution. Maintainers will respect confidentiality requests for the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
