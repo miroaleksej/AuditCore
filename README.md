@@ -5,6 +5,10 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c1b1c14-47b3-4ddc-b60b-5c212849f781" />
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
+
+[Why Your Crypto Wallet Is Not As Secure As You Think](https://github.com/miroaleksej/isogenyguard-sdk/blob/main/Why%20Your%20Crypto%20Wallet%20Is%20Not%20As%20Secure%20As%20You%20Think.md)
+
 **AuditCore** is the world's first industrial implementation of topological analysis for ECDSA security auditing. Unlike traditional approaches that require hundreds of real signatures, AuditCore can identify cryptographic vulnerabilities using just a public key and a single real signature from the blockchain.
 
 ## Key Features
