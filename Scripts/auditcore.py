@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-AuditCore v3.2 - Complete and Final Industrial Implementation
-
 AuditCore v3.2 — это первый в мире топологический анализатор ECDSA, который:
 - Использует биективную параметризацию (u_r, u_z)
 - Применяет персистентную гомологию и градиентный анализ
