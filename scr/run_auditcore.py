@@ -16,9 +16,9 @@ from topological_analyzer import TopologicalAnalyzer
 from dynamic_compute_router import DynamicComputeRouter
 from gradient_analysis import GradientAnalysis
 from collision_engine import CollisionEngine
-from nerve_theorem import NerveTheorem  # Из файла ai_assistant3.txt
-from mapper import Mapper  # Из файла ai_assistant3.txt
-from smoothing import Smoothing  # Из файла ai_assistant3.txt
+from nerve_theorem import NerveTheorem  # Из файла ai_assistant3.py
+from mapper import Mapper  # Из файла ai_assistant3.py
+from smoothing import Smoothing  # Из файла ai_assistant3.py
 
 # Настройка логгирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -79,13 +79,13 @@ grad_analyzer = GradientAnalysis(curve_n=N)
 # CollisionEngine
 collision_engine = CollisionEngine(curve_n=N)
 
-# NerveTheorem (из ai_assistant3.txt)
+# NerveTheorem (из ai_assistant3.py)
 nerve_theorem = NerveTheorem(config=router.config)  # Передаем конфиг из router
 
-# Mapper (из ai_assistant3.txt)
+# Mapper (из ai_assistant3.py)
 mapper = Mapper()  # Нужно реализовать, если используется
 
-# Smoothing (из ai_assistant3.txt)
+# Smoothing (из ai_assistant3.py)
 smoothing = Smoothing()  # Нужно реализовать, если используется
 
 # --- 3. Инъекция зависимостей (КРИТИЧНО!) ---
@@ -167,5 +167,6 @@ try:
     print("❗ Это хеуристическая оценка с низкой уверенностью (0.1)! Не доверяйте ей как основному методу.")
 except Exception as e:
     logger.warning(f"Gradient Analysis не сработал: {e}")
+
 
 logger.info("🎉 AuditCore v3.2 успешно запущен!")
